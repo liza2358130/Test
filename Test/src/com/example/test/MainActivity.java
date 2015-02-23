@@ -13,10 +13,17 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        findViewId();
+       setListener();
     }
 
 
-    private void findViewId() {
+    private void setListener() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	private void findViewId() {
 		// TODO Auto-generated method stub
 		
 	}
